@@ -3,7 +3,7 @@ import {Outlet, Route, Routes} from "react-router";
 import React from "react";
 import Navbar from "./components/Navbar.jsx";
 import Home from "./pages/Home.jsx";
-import Contact from "./pages/Contact.jsx";
+import Contact from "./components/Contact.jsx";
 import About from "./pages/About.jsx";
 import Details from "./pages/Details.jsx";
 import NotFound from "./pages/NotFound.jsx";
